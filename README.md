@@ -1,5 +1,5 @@
-## indian-bike-sales-analysis-dashboard
-Interactive Excel dashboard analyzing Indian bike sales and resale trends using data visualization techniques
+## Indian Bike Sales Analysis Dashboard
+An interactive Excel dashboard built using pivot tables, charts, KPI Metrics, and slicers to analyze Indian bike sales and resale trends.
 
 ## Tools & Technologies Used
 
