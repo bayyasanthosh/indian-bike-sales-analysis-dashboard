@@ -9,7 +9,7 @@ Interactive Excel dashboard analyzing Indian bike sales and resale trends using 
 * Slicers
 * Data Cleaning
 * Data Visualization
-* 
+ 
 ## Dashboard Features
 
 * KPI Metrics
